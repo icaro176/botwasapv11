@@ -131,46 +131,35 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
 │
 ┏⊱︙𝐌𝐚𝐤𝐞𝐫 𝐌𝐞𝐧𝐮
 ➼✰ *${prefix}sticker*
-➼✰ *${prefix}quotemaker <texto|autor>*
 ➼✰ *${prefix}qrcode* <texto>
-➼✰ *${prefix}ttp*
-➼✰ *${prefix}stickerhide* <texto>
-➼✰ *${prefix}emoji*
 ➼✰ *${prefix}ocr* <foto>
-➼✰ *${prefix}text3d* <texto>
 │
 ┏⊱︙𝐅𝐮𝐧 𝐌𝐞𝐧𝐮
-➼✰ *${prefix}chord* <título>
 ➼✰ *${prefix}bisakah* <texto>
 ➼✰ *${prefix}kapankah* <texto>
 ➼✰ *${prefix}apakah* <texto>
 ➼✰ *${prefix}rate* <texto>
 ➼✰ *${prefix}truth* [verdade]
 ➼✰ *${prefix}dare* [desafio]
+➼✰ *${prefix}eununca*
+➼✰ *${prefix}eununca2* 18+
 ➼✰ *${prefix}slap* <@tag>
 ➼✰ *${prefix}moddroid* <aplicativo>
-➼✰ *${prefix}happymod* <aplicativo>
 │
 ┏⊱︙𝐌𝐞𝐝𝐢𝐚 𝐌𝐞𝐧𝐮
 ➼✰ *${prefix}pinterest*
-➼✰ *${prefix}resepmasakan* <texto>
 ➼✰ *${prefix}igstalk* <usuário>
 ➼✰ *${prefix}tiktok* <link>
-➼✰ *${prefix}fototiktok* <usuário>
 ➼✰ *${prefix}map* <cidade>
 ➼✰ *${prefix}bitly* <link>
-➼✰ *${prefix}ssweb* <link>
 ➼✰ *${prefix}toimg*
 │
-*┏⊱︙𝐘𝐓 & 𝐒𝐎𝐍𝐆
-➼✰ *${prefix}ytmp3* <link>
-➼✰ *${prefix}ytmp4* <link>
+*┏⊱︙𝐒𝐎𝐍𝐆
 ➼✰ *${prefix}joox* <título>
 │
 *┏⊱︙𝐍𝐬𝐟𝐰 𝐌𝐞𝐧𝐮
 ➼✰ *${prefix}anjing*
 ➼✰ *${prefix}blowjob* <@tag>
-➼✰ *${prefix}nekonime*
 ➼✰ *${prefix}husbu*
 ➼✰ *${prefix}ranime*
 ➼✰ *${prefix}nangis* <@tag>
@@ -198,9 +187,7 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
 ➼✰ *${prefix}listadmin*
 │
 ┏⊱︙𝐀𝐭𝐢𝐯𝐚𝐫
-➼✰ *${prefix}group* [buka/tutup]
-├𝐮𝐬𝐨: buka: abrir / tutup: fechar "GRUPO"
-╰────────
+➼✰ *${prefix}group* [abrir/fechar]
 ➼✰ *${prefix}leveling* [enable/disable]
 ➼✰ *${prefix}nsfw* [1/0]
 ➼✰ *${prefix}simih* [1/0]
