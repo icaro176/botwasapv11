@@ -157,6 +157,7 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
 ➼✰ *${prefix}blowjob* <@tag>
 ➼✰ *${prefix}husbu*
 ➼✰ *${prefix}ranime*
+➼✰ *${prefix}pokemon*
 ➼✰ *${prefix}nangis* <@tag>
 ➼✰ *${prefix}cium* <@tag>
 ➼✰ *${prefix}peluk* <@tag>
@@ -189,20 +190,13 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
 ➼✰ *${prefix}welcome* [1/0]
 │
 *┏⊱︙𝐏𝐫𝐨𝐩𝐫𝐢𝐞𝐭𝐚𝐫𝐢𝐨
-➼✰ *${prefix}bc* <texto>
-➼✰ *${prefix}bcgc* <texto>
-➼✰ *${prefix}kickall* <ban>
 ➼✰ *${prefix}setreply* <texto>
 ➼✰ *${prefix}setprefix* <símbolo>
 ➼✰ *${prefix}setmemlimit* <total>
-➼✰ *${prefix}clearall*
-➼✰ *${prefix}block* <@tag>
-➼✰ *${prefix}unblock* <@tag>
-➼✰ *${prefix}leave*
 ➼✰ *${prefix}event* [1/0]
 ➼✰ *${prefix}mining*
 ➼✰ *${prefix}clone* <@tag>
-➼✰ *${prefix}setppbot* 
+➼✰ *${prefix}setppbot*
 
 ▌│█║▌║▌║║▌║▌║█│▌▌│█║▌║▌║
                  © *ᏆᏟᎪᎡØ*
