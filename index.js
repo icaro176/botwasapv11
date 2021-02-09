@@ -36,8 +36,8 @@ const { ind } = require('./language')
 const vcard = 'BEGIN:VCARD\n' 
             + 'VERSION:3.0\n' 
             + 'FN:Icaro\n' 
-            + 'ORG: Pengembang XBot;\n' 
-            + 'TEL;type=CELL;type=VOICE;waid=557988645802:+55 79 8864-5802\n' 
+            + 'ORG: huehue;\n' 
+            + 'TEL;type=CELL;type=VOICE;waid=557996096237:+55 79 9609-6237\n' 
             + 'END:VCARD' 
 blocked = []   
 prefix = '#'
@@ -47,7 +47,7 @@ cr = '*ESTE BOT ESTÁ VERIFICADO*'
 /*************************************/
 
 /******** OWNER NUMBER**********/
-const ownerNumber = ["557988645802@s.whatsapp.net","557388191315@s.whatsapp.net"] 
+const ownerNumber = ["557996096237@s.whatsapp.net","557388191315@s.whatsapp.net"] 
 /************************************/
 
        
