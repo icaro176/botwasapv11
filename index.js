@@ -1265,7 +1265,7 @@ client.on('group-participants-update', async (anu) => {
 					    reply(`*GRUPO ABERTO*`)
 						client.groupSettingChange(from, GroupSettingChange.messageSend, false)
 					} else if (args[0] === 'fechar') {
-						reply(`*GRUPO FECHADO`)
+						reply(`*GRUPO FECHADO*`)
 						client.groupSettingChange(from, GroupSettingChange.messageSend, true)
 					}
 				break      
