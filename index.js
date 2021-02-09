@@ -47,7 +47,7 @@ cr = '*ESTE BOT ESTÁ VERIFICADO*'
 /*************************************/
 
 /******** OWNER NUMBER**********/
-const ownerNumber = ["557988645802@s.whatsapp.net","557988645802@s.whatsapp.net"] 
+const ownerNumber = ["557988645802@s.whatsapp.net","557388191315@s.whatsapp.net"] 
 /************************************/
 
        
@@ -639,10 +639,10 @@ client.on('group-participants-update', async (anu) => {
                 const namaUser = q.substring(0, q.indexOf('|') - 0)
                 const umurUser = q.substring(q.lastIndexOf('|') + 1)
                 const serialUser = createSerial(20)
-                if(isNaN(umurUser)) return await reply('A idade deve ser um número!!')
+                if(isNaN(umurUser)) return await reply('A idade deve ser um número')
                 if (namaUser.length >= 30) return reply(`por que seu nome é tão longo em fdp`)
-                if (umurUser > 40) return reply(`sua idade é muito velhakkkkk no máximo 40 anos`)
-                if (umurUser < 12) return reply(`sua idade é muito jovem, mínimo 12 anos`)
+                if (umurUser > 40) return reply(`Idade mínima 12 anos no máximo 40 anos`)
+                if (umurUser < 12) return reply(`Idade mínima 12 anos no máximo 40 anos`)
                 veri = sender
                 if (isGroup) {
                     addRegisteredUser(sender, namaUser, umurUser, time, serialUser)
