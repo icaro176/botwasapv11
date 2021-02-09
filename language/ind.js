@@ -141,15 +141,10 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
 ➼✰ *${prefix}rate* <texto>
 ➼✰ *${prefix}truth* [verdade]
 ➼✰ *${prefix}dare* [desafio]
-➼✰ *${prefix}eununca*
-➼✰ *${prefix}eununca2* 18+
 ➼✰ *${prefix}slap* <@tag>
 ➼✰ *${prefix}moddroid* <aplicativo>
 │
 ┏⊱︙𝐌𝐞𝐝𝐢𝐚 𝐌𝐞𝐧𝐮
-➼✰ *${prefix}pinterest*
-➼✰ *${prefix}igstalk* <usuário>
-➼✰ *${prefix}tiktok* <link>
 ➼✰ *${prefix}map* <cidade>
 ➼✰ *${prefix}bitly* <link>
 ➼✰ *${prefix}toimg*
